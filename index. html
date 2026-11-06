@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+ <head>
+<title>بحث عن لغة CSS </title>
+</head>
+<body>
+<h1>بحث عن تقنيه الCSS في تصميم الويب </h1>
+<p><b> إسم الطالبة:</b> ندا عماد جمعه حسن </p>
+<p><b>  الرقم الجامعي:2500970</p></b>
+
+  <hr>
+
+  <h2>1. المقدمة </h2>
+  <p> من أهم لغات الويب وهي المسؤولة عن تنسيق وتصميم الويب وجعلها شكلها شكلها جميل ومناسب للمستخدمين تعتبر لغة CSS. </p>
+
+  <h2>2.الموضوع </h2>
+  <p> تساعدنا لغة CSS التحكم بالألوان والخطوط وتوزيع العناصر علي الشاشة بكل سهوله وفصل التصميم عن المحتوي الHTML.</p>
+
+  <h3>صوره توضيحيه للبحث </h3>
+  <p><img crc="img1.jpg" alt="الصوره" width="500" height="550"</p>
+
+ <h3> جدول مقارنة </h3>
+<table border="1">
+   <tr>
+     <th>لغة ال HTML </th>
+     <th> لغة ال CSS </th>
+   </tr>
+   <tr>
+     <td> بناء هيكل الصفحة والمحتوي </td>
+     <td> تنسيق وتصميم شكل الصفحة </td>
+   </tr>
+   <tr>
+     <td> تدعم تنظيم وترتيب والمحتوي </td>
+     <td> جعل الموقع سريع العرض علي جميع الأجهزه </td>
+     
+   </tr>  
+ </table>
+
+  <h2> 3.المراجع </h2>
+  <ul>
+    <li><p> موسوعه حاسوب للبرمجة </p></li>
+    <li><p> موقع حاسوب أي </p></li>
+    <li><p> موقع أكاديمية برو </p></li>
+  </ul>
+
+  <h3>روابط مفيده :</h3>
+  <p>يمكن زيارة موقع <a href="http://developer.mozilla.org"target="_blank">MDN</a>للمزيد .
+  <p> موقع <a href="https://wiki.hsoub.com"torget="_blank">موسوعة حسوب </a> للمواضيع التقنية .</p>
+  <p> موقع <a href="https://www.w3schools.com"target="_blank">w3schools</a>للتدريب العملي .</p>
+  </p> 
+
+  <br><hr>
+  <form action=""
+  <input type="text"placeholder="uere name"<br>
+  <input type="password"placeholder="password">
+  <input type="button"value="ok">
+
+</body>
+</html>
